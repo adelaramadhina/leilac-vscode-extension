@@ -1,4 +1,4 @@
-# leilac-vscode-extension
+# Leilac
 
 ![leilac](https://github.com/adelaramadhina/leilac-vscode-extension/blob/main/Leilac.gif?)
 
