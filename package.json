@@ -1,0 +1,21 @@
+{
+    "name": "leilac",
+    "displayName": "leilac",
+    "description": "Leilac is a pastel pink theme ",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.53.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "leilac",
+                "uiTheme": "vs-dark",
+                "path": "./themes/leilac-color-theme.json"
+            }
+        ]
+    }
+}
